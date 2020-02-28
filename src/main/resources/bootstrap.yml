@@ -4,8 +4,8 @@ spring:
       server:
         git:
           uri: https://github.com/ogulcanarbc/book-store-configs.git
-          username: ogulcanarbc
-          password: 591O735G641U78L*
+          username: gitusername
+          password: gitpassword
           clone-on-start: true
 
 server:
